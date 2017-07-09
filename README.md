@@ -10,4 +10,4 @@
 
 # Math
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/easy.md)
-* [medium]()
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/medium.md)
