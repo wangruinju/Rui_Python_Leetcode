@@ -7,7 +7,7 @@ output: html_document
 
 436. Find Right Interval
 
-```python
+```{python}
 # Definition for an interval.
 # class Interval(object):
 #     def __init__(self, s=0, e=0):
