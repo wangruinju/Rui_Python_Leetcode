@@ -7,7 +7,7 @@ output: html_document
 
 367. Valid Perfect Square
 
-```
+```{python}
 class Solution(object):
     def isPerfectSquare(self, num):
         """
@@ -24,7 +24,7 @@ class Solution(object):
 
 167. Two Sum II - Input array is sorted
 
-```
+```{python}
 class Solution(object):
     def twoSum(self, numbers, target):
         """
@@ -44,7 +44,7 @@ class Solution(object):
 
 441. Arranging Coins
 
-```
+```{python}
 class Solution(object):
     def arrangeCoins(self, n):
         """
@@ -74,7 +74,7 @@ class Solution(object):
 
 35. Search Insert Position
 
-```
+```{python}
 class Solution(object):
     def searchInsert(self, nums, target):
         """
@@ -90,7 +90,7 @@ class Solution(object):
 
 374. Guess Number Higher or Lower
 
-```
+```{python}
 # The guess API is already defined for you.
 # @param num, your guess
 # @return -1 if my number is lower, 1 if my number is higher, otherwise return 0
@@ -115,7 +115,7 @@ class Solution(object):
 
 69. Sqrt(x)
 
-```
+```{python}
 class Solution(object):
     def mySqrt(self, x):
         """
@@ -130,7 +130,7 @@ class Solution(object):
 
 278. First Bad Version
 
-```
+```{python}
 # The isBadVersion API is already defined for you.
 # @param version, an integer
 # @return a bool
@@ -155,7 +155,7 @@ class Solution(object):
 
 475. Heaters
 
-```
+```{python}
 class Solution(object):
     def findRadius(self, houses, heaters):
         """
@@ -179,7 +179,7 @@ class Solution(object):
 
 350. Intersection of Two Arrays II
 
-```
+```{python}
 class Solution(object):
     def intersect(self, nums1, nums2):
         """
@@ -211,7 +211,7 @@ class Solution(object):
 
 349. Intersection of Two Arrays
 
-```
+```{python}
 class Solution(object):
     def intersection(self, nums1, nums2):
         """
