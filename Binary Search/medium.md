@@ -7,7 +7,7 @@ output: html_document
 
 436. Find Right Interval
 
-```{python}
+```python
 # Definition for an interval.
 # class Interval(object):
 #     def __init__(self, s=0, e=0):
@@ -58,7 +58,7 @@ class Solution(object):
 
 300. Longest Increasing Subsequence
 
-```{python}
+```python
 class Solution(object):
     def lengthOfLIS(self, nums):
         """
@@ -99,7 +99,7 @@ class Solution(object):
 
 287. Find the Duplicate Number
 
-```{python}
+```python
 class Solution(object):
     def findDuplicate(self, nums):
         """
@@ -123,7 +123,7 @@ class Solution(object):
 
 275. H-Index II
 
-```{python}
+```python
 class Solution(object):
     def hIndex(self, citations):
         """
@@ -152,7 +152,7 @@ class Solution(object):
 
 240. Search a 2D Matrix II
 
-```{python}
+```python
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
@@ -236,7 +236,7 @@ class Solution(object):
 
 378. Kth Smallest Element in a Sorted Matrix
 
-```{python}
+```python
 class Solution(object):
     def kthSmallest(self, matrix, k):
         """
@@ -265,7 +265,7 @@ class Solution(object):
 
 162. Find Peak Element
 
-```{python}
+```python
 class Solution(object):
     def findPeakElement(self, nums):
         """
@@ -292,7 +292,7 @@ class Solution(object):
 
 454. 4Sum II
 
-```{python}
+```python
 class Solution(object):
     def fourSumCount(self, A, B, C, D):
         """
@@ -315,7 +315,7 @@ class Solution(object):
 
 153. Find Minimum in Rotated Sorted Array
 
-```{python}
+```python
 class Solution(object):
     def findMin(self, nums):
         """
@@ -340,7 +340,7 @@ class Solution(object):
 
 81. Search in Rotated Sorted Array II
 
-```{python}
+```python
 class Solution(object):
     def search(self, nums, target):
         """
@@ -379,7 +379,7 @@ class Solution(object):
 
 74. Search a 2D Matrix
 
-```{python}
+```python
 class Solution(object):
     def searchMatrix(self, matrix, target):
         """
@@ -408,7 +408,7 @@ class Solution(object):
 
 50. Pow(x, n)
 
-```{python}
+```python
 class Solution(object):
     def myPow(self, x, n):
         """
@@ -430,7 +430,7 @@ class Solution(object):
 
 34. Search for a Range
 
-```{python}
+```python
 class Solution(object):
     def searchRange(self, nums, target):
         """
@@ -468,7 +468,7 @@ class Solution(object):
 
 33. Search in Rotated Sorted Array
 
-```{python}
+```python
 class Solution(object):
     def search(self, nums, target):
         """
@@ -505,7 +505,7 @@ class Solution(object):
 
 29. Divide Two Integers
 
-```{python}
+```python
 class Solution(object):
     def divide(self, dividend, divisor):
         """
@@ -530,7 +530,7 @@ class Solution(object):
 
 222. Count Complete Tree Nodes
 
-```{python}
+```python
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
@@ -563,7 +563,7 @@ class Solution(object):
 
 209. Minimum Size Subarray Sum
 
-```{python}
+```python
 class Solution(object):
     def minSubArrayLen(self, s, nums):
         """
@@ -628,7 +628,7 @@ class Solution(object):
 
 392. Is Subsequence
 
-```{python}
+```python
 class Solution(object):
     def isSubsequence(self, s, t):
         """
