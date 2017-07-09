@@ -7,3 +7,7 @@
 # Bit Manipulation
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Bit%20Manipulation/easy.md)
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Bit%20Manipulation/medium.md)
+
+# Math
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/easy.md)
+* [medium]()
