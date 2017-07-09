@@ -1,5 +1,5 @@
 ---
-title: "Easy"
+title: "Medium"
 author: "Rui Wang"
 date: "7/8/2017"
 output: html_document
