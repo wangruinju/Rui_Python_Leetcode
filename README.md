@@ -24,4 +24,8 @@
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Two%20Pointers/easy.md)
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Two%20Pointers/medium.md)
 
+## Stack
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Stack/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Stack/medium.md)
+
 
