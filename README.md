@@ -28,4 +28,8 @@
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Stack/easy.md)
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Stack/medium.md)
 
+## Backtrack
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Backtrack/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Backtrack/medium.md)
+
 
