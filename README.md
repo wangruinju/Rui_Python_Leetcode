@@ -13,8 +13,8 @@
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Bit%20Manipulation/medium.md)
 
 ## Hash Table
-* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Hash%Table/easy.md)
-* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Hash%Table/medium.md)
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Hash%20Table/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Hash%20Table/medium.md)
 
 ## Math
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/easy.md)
