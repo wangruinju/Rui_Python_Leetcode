@@ -1,5 +1,9 @@
 # Python_Leetcode
 
+## Linked List
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Linked%20List/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Linked%20List/medium.md)
+
 ## Binary Search 
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Binary%20Search/easy.md)
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Binary%20Search/medium.md)
@@ -15,10 +19,6 @@
 ## Array
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/easy.md)
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/medium.md)
-
-## Linked List
-* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Linked%20List/easy.md)
-* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Linked%20List/medium.md)
 
 ## Two Pointers
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Two%20Pointers/easy.md)
