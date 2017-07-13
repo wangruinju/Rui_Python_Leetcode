@@ -12,10 +12,6 @@
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Bit%20Manipulation/easy.md)
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Bit%20Manipulation/medium.md)
 
-## Hash Table
-* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Hash%20Table/easy.md)
-* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Hash%20Table/medium.md)
-
 ## Math
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/easy.md)
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/medium.md)
@@ -28,15 +24,25 @@
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Stack/easy.md)
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Stack/medium.md)
 
+## Hash Table
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Hash%20Table/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Hash%20Table/medium.md)
+
 ## Backtrack
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Backtrack/easy.md)
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Backtrack/medium.md)
 
 ## Tree
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Tree/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Tree/medium.md)
 
 ## DFS
 
 ## BFS
+
+## String
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/medium.md)
 
 ## Array
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/easy.md)
