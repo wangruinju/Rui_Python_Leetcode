@@ -45,7 +45,7 @@
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/medium.md)
 
 ## Array
-* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/easy.md)
-* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Math/medium.md)
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Array/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Array/medium.md)
 
 ## Dynamic Programming
