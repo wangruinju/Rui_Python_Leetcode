@@ -37,8 +37,12 @@
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Tree/medium.md)
 
 ## DFS
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/DFS/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/DFS/medium.md)
 
 ## BFS
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/BFS/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/BFS/medium.md)
 
 ## String
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/String/easy.md)
@@ -49,3 +53,5 @@
 * [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Array/medium.md)
 
 ## Dynamic Programming
+* [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Dynamic%20Programming/easy.md)
+* [medium](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Dynamic%20Programming/medium.md)
