@@ -2,17 +2,17 @@
 
 After a fast reading of this fatastic Python data structure book (highly recommended for programming "beginners" like me):
 
-[Problem Solving with Algorithms and Data Structures using Python [http://interactivepython.org/runestone/static/pythonds/index.html]
+[Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 I first get started with linked list from my friend's suggestions. It was not that difficult. There are some summary or tricks about linked list in the following link:
 
-[Linked list summary][http://www.cnblogs.com/Raising-Sun/p/5970662.html#3534606]
+[Linked list summary](http://www.cnblogs.com/Raising-Sun/p/5970662.html#3534606)
 
 Then followed by binary search and two pointers.
 
 And some summary about bit manipulation can be looked up:
 
-[Bit manipulation summary][https://www.hackerearth.com/practice/notes/bit-manipulation/]
+[Bit manipulation summary](https://www.hackerearth.com/practice/notes/bit-manipulation/)
 
 Then maybe math problems. If it is related with number theory, I guess you can skip or look at the solutions instead.
 
