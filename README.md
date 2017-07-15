@@ -4,7 +4,7 @@ After a fast reading of this fatastic Python data structure book (highly recomme
 
 [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 
-I first get started with linked list from my friend's suggestions. It was not that difficult. There are some summary or tricks about linked list in the following link:
+I first get started with linked list suggested by my friend. It was not that difficult. There are some summary or tricks about linked list:
 
 [Linked list summary](http://www.cnblogs.com/Raising-Sun/p/5970662.html#3534606)
 
@@ -16,12 +16,11 @@ And some summary about bit manipulation can be looked up:
 
 Then maybe math problems. If it is related with number theory, I guess you can skip or look at the solutions instead.
 
-Stack or hash table for some questions are not that hard and allows us to run faster. However, combining with backtrack, tree, dfs, bfs or dp inside, the solutions become more complicated.
+Stack or hash table for some questions are not hard. However, combining with backtrack, tree, dfs, bfs or dp together, the solutions become more complicated.
 
 String and array questions are sort of solved in various methods. You can test yourself after you undestand all the algorithms.
 
 DP can be really hard. Need more training!!!
-
 
 ## Linked List
 * [easy](https://github.com/wangruinju/Rui_Python_Leetcode/blob/master/Linked%20List/easy.md)
